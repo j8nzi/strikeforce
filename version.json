@@ -4,5 +4,11 @@
                   "Url":  "https://raw.githubusercontent.com/j8nzi/strikeforce/main/strikeforce-2026.10.30.1504.zip",
                   "Sha256":  "1a127a36f07353b3ffa553d3c11d7053eb4ea914e58ec53c8de6de83780a01f3",
                   "Groesse":  102309132
-              }
+              },
+    "android":  {
+                    "version":  "0.10",
+                    "Url":  "https://raw.githubusercontent.com/j8nzi/strikeforce/main/strikeforce-mobile-0.10.apk",
+                    "Sha256":  "e609bae5baf5057c6f5646be88ec7c7e8319e41343eb1c36872a01c8c4366837",
+                    "Groesse":  100506423
+                }
 }
