@@ -1,8 +1,8 @@
 {
-    "version":  "2026.10.29.2105",
+    "version":  "2026.10.30.1504",
     "paket":  {
-                  "Url":  "https://raw.githubusercontent.com/j8nzi/strikeforce/main/strikeforce-2026.10.29.2105.zip",
-                  "Sha256":  "1d0239448d74e1aa4f3944eaaf39721838b999843d580ea4e62db92e3c534bfe",
-                  "Groesse":  102308035
+                  "Url":  "https://raw.githubusercontent.com/j8nzi/strikeforce/main/strikeforce-2026.10.30.1504.zip",
+                  "Sha256":  "1a127a36f07353b3ffa553d3c11d7053eb4ea914e58ec53c8de6de83780a01f3",
+                  "Groesse":  102309132
               }
 }
