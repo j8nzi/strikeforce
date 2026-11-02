@@ -6,9 +6,9 @@
                   "Groesse":  102316112
               },
     "android":  {
-                    "version":  "0.10",
-                    "Url":  "https://raw.githubusercontent.com/j8nzi/strikeforce/main/strikeforce-mobile-0.10.apk",
-                    "Sha256":  "e609bae5baf5057c6f5646be88ec7c7e8319e41343eb1c36872a01c8c4366837",
-                    "Groesse":  100506423
+                    "version":  "0.13",
+                    "Url":  "https://raw.githubusercontent.com/j8nzi/strikeforce/main/strikeforce-mobile-0.13.apk",
+                    "Sha256":  "c0db01a3cb426458b9b68efffc946df7b51c5e858eb5114e711965d0182dca18",
+                    "Groesse":  100526977
                 }
 }
