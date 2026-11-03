@@ -1,14 +1,14 @@
 {
-    "version":  "2026.11.02.1703",
+    "version":  "2026.11.03.1544",
     "paket":  {
-                  "Url":  "https://raw.githubusercontent.com/j8nzi/strikeforce/main/strikeforce-2026.11.02.1703.zip",
-                  "Sha256":  "05e0dab4b9cace2836dc912f09546c7ebc3271509a0850dfa5e5027a45a3a836",
-                  "Groesse":  102316112
+                  "Url":  "https://raw.githubusercontent.com/j8nzi/strikeforce/main/strikeforce-2026.11.03.1544.zip",
+                  "Sha256":  "bcd71829e356488082a7c0d880f37d641a24c1923137b91e3e375a9764ec9dfb",
+                  "Groesse":  102329239
               },
     "android":  {
-                    "version":  "0.13",
-                    "Url":  "https://raw.githubusercontent.com/j8nzi/strikeforce/main/strikeforce-mobile-0.13.apk",
-                    "Sha256":  "c0db01a3cb426458b9b68efffc946df7b51c5e858eb5114e711965d0182dca18",
-                    "Groesse":  100526977
+                    "version":  "0.14",
+                    "Url":  "https://raw.githubusercontent.com/j8nzi/strikeforce/main/strikeforce-mobile-0.14.apk",
+                    "Sha256":  "b7111311d3023fbbd015f7fdbe2eabb36df677a8daa5f643aaf6f10b13f44017",
+                    "Groesse":  100535169
                 }
 }
