@@ -1,9 +1,9 @@
 {
-    "version":  "2026.11.03.1620",
+    "version":  "2026.11.08.1406",
     "paket":  {
-                  "Url":  "https://raw.githubusercontent.com/j8nzi/strikeforce/main/strikeforce-2026.11.03.1620.zip",
-                  "Sha256":  "3d9102609ab8ec54ff4c62c1aae5001da32ae0b0ff1d769e821fe46b4f8161ad",
-                  "Groesse":  102332139
+                  "Url":  "https://raw.githubusercontent.com/j8nzi/strikeforce/main/strikeforce-2026.11.08.1406.zip",
+                  "Sha256":  "28b28db6f1aad0d3916a48b8a784f8987f6585d0bafc1a869960e40db7a7eb93",
+                  "Groesse":  96867646
               },
     "android":  {
                     "version":  "0.15",
