@@ -1,14 +1,22 @@
 {
-    "version":  "2026.11.09.1639",
-    "paket":  {
-                  "Url":  "https://raw.githubusercontent.com/j8nzi/strikeforce/main/strikeforce-2026.11.09.1639.zip",
-                  "Sha256":  "bc194295ec1d7a9716f2ede9bcc355387f18ac777c49451f2216ea278cc0cfe6",
-                  "Groesse":  41060878
-              },
-    "android":  {
-                    "version":  "0.15",
-                    "Url":  "https://raw.githubusercontent.com/j8nzi/strikeforce/main/strikeforce-mobile-0.15.apk",
-                    "Sha256":  "216e90d03626e7b264e66663355c5bc8def0c7132d3ad7186681323911036fed",
-                    "Groesse":  100539265
-                }
+    "version": "2026.11.09.1639",
+    "paket": {
+        "Url": "https://raw.githubusercontent.com/j8nzi/strikeforce/main/strikeforce-2026.11.09.1639.zip",
+        "Sha256": "bc194295ec1d7a9716f2ede9bcc355387f18ac777c49451f2216ea278cc0cfe6",
+        "Groesse": 41060878
+    },
+    "android": {
+        "version": "2026.11.12.2036",
+        "versionCode": 261112206,
+        "Url": "https://raw.githubusercontent.com/j8nzi/strikeforce/main/strikeforce-android-2026.11.12.2036.apk",
+        "Sha256": "cbbe3d4643392eb1e82bd58953ef71779f29fd78fc2ef97a80072c7560430083",
+        "Groesse": 102170658
+    },
+    "launcher": {
+        "version": "1.1",
+        "versionCode": 1,
+        "Url": "https://raw.githubusercontent.com/j8nzi/strikeforce/main/holva-launcher-1.apk",
+        "Sha256": "1a1ed6c7251a6b939cc3c911f0e05a2c1fe4dc4a430bb0052eda8bc67669d006",
+        "Groesse": 14111291
+    }
 }
